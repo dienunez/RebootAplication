@@ -1,0 +1,6 @@
+c:\users\l0653853\documents\visual studio 2015\Projects\ConsoleApplication (RebootAplication)\ConsoleApplication (RebootAplication)\bin\Debug\ConsoleApplication (RebootAplication).exe.config
+c:\users\l0653853\documents\visual studio 2015\Projects\ConsoleApplication (RebootAplication)\ConsoleApplication (RebootAplication)\bin\Debug\ConsoleApplication (RebootAplication).exe
+c:\users\l0653853\documents\visual studio 2015\Projects\ConsoleApplication (RebootAplication)\ConsoleApplication (RebootAplication)\bin\Debug\ConsoleApplication (RebootAplication).pdb
+c:\users\l0653853\documents\visual studio 2015\Projects\ConsoleApplication (RebootAplication)\ConsoleApplication (RebootAplication)\obj\Debug\ConsoleApplication (RebootAplication).csprojResolveAssemblyReference.cache
+c:\users\l0653853\documents\visual studio 2015\Projects\ConsoleApplication (RebootAplication)\ConsoleApplication (RebootAplication)\obj\Debug\ConsoleApplication (RebootAplication).exe
+c:\users\l0653853\documents\visual studio 2015\Projects\ConsoleApplication (RebootAplication)\ConsoleApplication (RebootAplication)\obj\Debug\ConsoleApplication (RebootAplication).pdb
